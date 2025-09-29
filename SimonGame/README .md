@@ -14,7 +14,7 @@ The classic Simon Game challenges players to remember and repeat an ever-increas
 ---
 
 ## 🚀 Live Demo
-[Play the Game Here](https://your-username.github.io/simongame/)  
+[Play the Game Here](https://AbhishekThite387.github.io/simongame/)  
 
 ---
 
@@ -28,7 +28,7 @@ The classic Simon Game challenges players to remember and repeat an ever-increas
 ## 📂 How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/simongame.git
+   git clone https://github.com/AbhishekThite387/simongame.git
    ```
 2. Open the project folder:
    ```bash
@@ -38,10 +38,6 @@ The classic Simon Game challenges players to remember and repeat an ever-increas
 
 ---
 
-## 📸 Screenshots
-_Add screenshots of your game here (optional)_  
-
----
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!  
@@ -56,6 +52,6 @@ This project is licensed under the MIT License.
 
 ### 🧑‍💻 Author
 **Your Name**  
-🔗 [GitHub Profile](https://github.com/your-username)  
+🔗 [GitHub Profile](https://github.com/AbhishekThite387)  
 
 ---
